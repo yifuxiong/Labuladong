@@ -1,0 +1,22 @@
+
+
+int res = Integer.MAX_VALUE;
+
+public int least(int[] nums) {
+    dfs(nums, 0, 0, 0, 0);
+    return res;
+}
+
+public void dfs(int[] nums, int index, int bag1, int bag2, int loss) {
+    if (index == nums.length) {
+        if (bag1 == bag2) {
+            res = Math.min(res, loss);
+        }
+        return;
+    }
+
+    int val = nums[index];
+    dfs(nums, index + 1, bag1 + val, bag2, loss);
+    dfs(nums, index + 1, bag1, bag2 + val, loss);
+    dfs(nums, index + 1, bag1, bag2, loss + val);
+}

@@ -1,0 +1,7 @@
+22 twenty two
+100 one hundred
+145 one hundred and forty five
+1234 one thousand two hundred and thirty four
+8088 eight thousand (and) eighty eight (注:这个and可加可不加，这个题目我们选择不加)
+486669 four hundred and eighty six thousand six hundred and sixty nine
+1652510 one million six hundred and fifty two thousand five hundred and ten

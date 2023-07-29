@@ -1,0 +1,58 @@
+// 这里以leetcode T887 高楼扔鸡蛋 为例
+// 写下 记忆化搜索 的模板代码
+
+Map<String, Integer> memo;
+
+public int superEggDrop(int k, int n){
+    memo = new HashMap<>();
+    return dp(k, n);
+}
+
+// k个鸡蛋，n层楼
+public int dp(int k, int n){
+    // step1: 退出条件
+    if (k == 1){
+        return n;
+    }
+    if (n == 0){
+        return 0;
+    }
+
+    // step2: 判断memo中是否包含当前key
+    StringBuffer sb = new StringBuffer();
+    sb.append(k);
+    sb.append('#');
+    sb.append(n);
+    String key = sb.toString();
+    if (memo.containsKey(key)){
+        return memo.get(key);
+    }
+
+    // step3: 计算当前结果
+    int left = 1, right = n;
+    while (left + 1 < right){
+        int mid = left + (right - left) / 2;
+        int lowVal = dp(k - 1, mid - 1);
+        int highVal = dp(k, n - mid);
+
+        if (lowVal < highVal){
+            left = mid;
+        }else if (lowVal > highVal){
+            right = mid;
+        }else{
+            left = mid;
+            right = mid;
+        }
+    }
+
+    int a = Math.max(dp(k, n - left), dp(k - 1, left - 1));
+    int b = Math.max(dp(k, n - right), dp(k - 1, right - 1));
+    // 从所有最大值中选择一个最小的
+    int res = Math.min(a, b) + 1;
+
+    // step4: 将当前这一步结果加入memo中
+    memo.put(key, res);
+
+    // step5: 返回当前结果
+    return res;
+}

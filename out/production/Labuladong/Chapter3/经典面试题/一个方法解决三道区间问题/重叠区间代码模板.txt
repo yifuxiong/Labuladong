@@ -1,0 +1,38 @@
+
+
+int removeCoveredIntervals(int[][] intvs){
+    // 起点升序，起点相同就按终点降序
+    Arrays.sort(intvs, (a, b) -> {
+        if (a[0] == b[0]){
+            return b[1] - a[1];
+        }else{
+            return a[0] - b[0];
+        }
+    });
+
+    // 记录合并区间的起点和终点
+    int left = intvs[0][0];
+    int right = intvs[0][1];
+
+    // res用来对覆盖区间计数
+    int res = 0;
+    for (int i = 1; i < intvs.length; i++){
+        int[] intv = intvs[i];
+
+        // 情况一：找到覆盖区间
+        if (left <= intv[0] && right >= intv[1]){
+            res++;
+        }
+        // 情况二：找到相交区间，合并
+        if (right >= intv[0] && right <= intv[1]){
+            right = intv[1];
+        }
+        // 情况三：完全不相交
+        if (right < intv[0]){
+            left = intv[0];
+            right = intv[1];
+        }
+    }
+
+    return intvs.length - res;
+}

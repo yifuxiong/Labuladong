@@ -1,0 +1,24 @@
+输入
+3
+0
+fang 90
+yang 50
+ning 70
+
+输出
+fang 90
+ning 70
+yang 50
+
+
+输入
+3
+1
+fang 90
+yang 50
+ning 70
+
+输出
+yang 50
+ning 70
+fang 90

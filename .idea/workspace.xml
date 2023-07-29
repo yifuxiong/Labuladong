@@ -1,0 +1,886 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="74cf8ea8-6c9d-4961-879a-d66c10f2444c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-25839634">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="152" />
+          <entry key="project.open.time.0" value="40" />
+          <entry key="project.open.time.1" value="11" />
+          <entry key="project.open.time.10" value="5" />
+          <entry key="project.open.time.11" value="2" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.19" value="1" />
+          <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.26" value="1" />
+          <entry key="project.open.time.5" value="13" />
+          <entry key="project.open.time.6" value="34" />
+          <entry key="project.open.time.7" value="20" />
+          <entry key="project.open.time.8" value="16" />
+          <entry key="project.open.time.9" value="8" />
+          <entry key="project.opened" value="154" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="gif" value="2" />
+          <entry key="iml" value="1" />
+          <entry key="java" value="638" />
+          <entry key="jpeg" value="1" />
+          <entry key="jpg" value="30" />
+          <entry key="png" value="34" />
+          <entry key="sql" value="6" />
+          <entry key="txt" value="81" />
+          <entry key="初始化和状态转移" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="IDEA_MODULE" value="1" />
+          <entry key="Image" value="67" />
+          <entry key="JAVA" value="638" />
+          <entry key="PLAIN_TEXT" value="87" />
+          <entry key="SQL" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="8" />
+          <entry key="java" value="120613" />
+          <entry key="sql" value="8" />
+          <entry key="txt" value="4411" />
+          <entry key="初始化和状态转移" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="120613" />
+          <entry key="PLAIN_TEXT" value="4423" />
+          <entry key="SQL" value="8" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/huawei_y23_07_10/t2.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/贪心算法_区间调度/template.txt" />
+        <option value="$PROJECT_DIR$/src/贪心算法_区间调度/T646/Solution.java" />
+        <option value="$PROJECT_DIR$/src/贪心算法_区间调度/T452/Solution.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/T537/Solution.java" />
+        <option value="$PROJECT_DIR$/src/记忆化搜索/template.txt" />
+        <option value="$PROJECT_DIR$/src/wangyi_子集背包/Solution.java" />
+        <option value="$PROJECT_DIR$/src/动态规划/背包问题/背包01/wangyi_子集背包.txt" />
+        <option value="$PROJECT_DIR$/src/动态规划/背包问题/子集背包/T416/Solution.java" />
+        <option value="$PROJECT_DIR$/src/动态规划/背包问题/子集背包/T416/SolutDP.java" />
+        <option value="$PROJECT_DIR$/src/动态规划/背包问题/template.txt" />
+        <option value="$PROJECT_DIR$/src/nowcode/栈_表达式求值/Solution.java" />
+        <option value="$PROJECT_DIR$/src/nowcode/栈_表达式求值_leetcode/Solution.java" />
+        <option value="$PROJECT_DIR$/src/动态规划/子序列问题/template.txt" />
+        <option value="$PROJECT_DIR$/src/经典排序算法/字符串或按前缀字符排序/T386/Solution.java" />
+        <option value="$PROJECT_DIR$/src/回文串/T5/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/经典题.txt" />
+        <option value="$PROJECT_DIR$/src/滑动窗口/T424/Solution.java" />
+        <option value="$PROJECT_DIR$/src/niuke_meituan_2021_10/T1/data.txt" />
+        <option value="$PROJECT_DIR$/src/niuke_meituan_2021_10/T1/Main.java" />
+        <option value="$PROJECT_DIR$/src/niuke_meituan_2021_10/T2/data.txt" />
+        <option value="$PROJECT_DIR$/src/niuke_meituan_2021_10/T2/Main.java" />
+        <option value="$PROJECT_DIR$/src/niuke_meituan_2021_10/T3/data.txt" />
+        <option value="$PROJECT_DIR$/src/niuke_meituan_2021_10/T4/data.txt" />
+        <option value="$PROJECT_DIR$/src/niuke_meituan_2021_10/T4/Main.java" />
+        <option value="$PROJECT_DIR$/src/niuke_meituan_2021_10/T3/Main.java" />
+        <option value="$PROJECT_DIR$/src/单调栈/T670最大交换_一次/Solution.java" />
+        <option value="$PROJECT_DIR$/src/wp_tengxun_22_10_16/Main.java" />
+        <option value="$PROJECT_DIR$/src/wp_tengxun_22_10_16/T1/data.txt" />
+        <option value="$PROJECT_DIR$/src/wp_tengxun_22_10_16/T1/Main.java" />
+        <option value="$PROJECT_DIR$/src/记忆化搜索/T805/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Chapter2/贪心类型问题/剪视频剪出一个贪心算法/T1024/Solution.java" />
+        <option value="$PROJECT_DIR$/src/Chapter2/贪心类型问题/贪心算法之区间调度问题/T435/Solution.java" />
+        <option value="$PROJECT_DIR$/src/经典排序算法/quick_sort_topk/Solution.java" />
+        <option value="$PROJECT_DIR$/src/经典排序算法/归并排序/Solution.java" />
+        <option value="$PROJECT_DIR$/src/经典排序算法/归并排序/SolutionII.java" />
+        <option value="$PROJECT_DIR$/src/经典排序算法/quick_sort/SolutionII.java" />
+        <option value="$PROJECT_DIR$/src/经典排序算法/quick_sort/Solution.java" />
+        <option value="$PROJECT_DIR$/src/经典排序算法/quick_sort/Main.java" />
+        <option value="$PROJECT_DIR$/src/经典排序算法/归并排序/Test.java" />
+        <option value="$PROJECT_DIR$/src/经典排序算法/quick_sort/Test.java" />
+        <option value="$PROJECT_DIR$/src/YongJ/Z字遍历二叉树/Solut.java" />
+        <option value="$PROJECT_DIR$/src/y23_07_10/input.txt" />
+        <option value="$PROJECT_DIR$/src/y23_07_10/Main.java" />
+        <option value="$PROJECT_DIR$/src/y23_07_10/T2/Main.java" />
+        <option value="$PROJECT_DIR$/src/y23_07_10/T3/Main.java" />
+        <option value="$PROJECT_DIR$/src/y23_07_10/T4/input.txt" />
+        <option value="$PROJECT_DIR$/src/y23_07_10/T4/Main.java" />
+        <option value="$PROJECT_DIR$/src/huawei_y23_07_10/T5/input.txt" />
+        <option value="$PROJECT_DIR$/src/huawei_y23_07_10/T5/Main.java" />
+        <option value="$PROJECT_DIR$/src/huawei_y23_07_10/t1.sql" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-15" />
+    <option name="y" value="-15" />
+    <option name="width" value="1945" />
+    <option name="height" value="1035" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Labuladong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Labuladong" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Labuladong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Labuladong" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Labuladong" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Labuladong" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="huawei_y23_07_10" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1689070653369" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaProject\Labuladong\src\回文串\T516" />
+      <recent name="E:\JavaProject\Labuladong\src\Chapter3\数学运算技巧\如何在无限序列中抽取元素" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\JavaProject\Labuladong\src\y23_07_10\T2" />
+      <recent name="E:\JavaProject\Labuladong\src\动态规划\背包问题\子集背包" />
+      <recent name="E:\JavaProject\Labuladong\src\ali打怪兽\打怪兽1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="huawei_y23_07_10.T5.Main" />
+      <module name="Labuladong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="huawei_y23_07_10.T5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="huawei_y23_07_10.T4.Main" />
+      <module name="Labuladong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="huawei_y23_07_10.T4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="y23_07_10.Main" />
+      <module name="Labuladong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="huawei_y23_07_10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="YongJ.Z字遍历二叉树.Solut" />
+      <module name="Labuladong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="YongJ.Z字遍历二叉树.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="T315" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="经典排序算法.归并排序.T315" />
+      <module name="Labuladong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="经典排序算法.归并排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="经典排序算法.quick_sort.Test" />
+      <module name="Labuladong" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="经典排序算法.quick_sort.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.T315" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Solut" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Solut" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.T315" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="74cf8ea8-6c9d-4961-879a-d66c10f2444c" name="Default Changelist" comment="" />
+      <created>1646467400329</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646467400329</updated>
+      <workItem from="1646467401607" duration="76000" />
+      <workItem from="1646467480053" duration="5884000" />
+      <workItem from="1646491986607" duration="2556000" />
+      <workItem from="1646531893911" duration="6748000" />
+      <workItem from="1646616598146" duration="11629000" />
+      <workItem from="1646634179320" duration="10489000" />
+      <workItem from="1646645364897" duration="22000" />
+      <workItem from="1646658267253" duration="3030000" />
+      <workItem from="1646704579364" duration="4659000" />
+      <workItem from="1646721277610" duration="10502000" />
+      <workItem from="1646742276331" duration="100000" />
+      <workItem from="1646789957504" duration="8460000" />
+      <workItem from="1646806709752" duration="7394000" />
+      <workItem from="1646881826050" duration="70000" />
+      <workItem from="1646893486185" duration="14494000" />
+      <workItem from="1646914737833" duration="4496000" />
+      <workItem from="1646966687137" duration="1037000" />
+      <workItem from="1646985332359" duration="1110000" />
+      <workItem from="1647061683828" duration="855000" />
+      <workItem from="1647067483853" duration="4765000" />
+      <workItem from="1647081225122" duration="18000" />
+      <workItem from="1647142751172" duration="1783000" />
+      <workItem from="1647157070065" duration="11542000" />
+      <workItem from="1647220027228" duration="823000" />
+      <workItem from="1647222354381" duration="4000" />
+      <workItem from="1647222694975" duration="5512000" />
+      <workItem from="1647239186548" duration="5532000" />
+      <workItem from="1647675076133" duration="1427000" />
+      <workItem from="1647678382191" duration="4338000" />
+      <workItem from="1647694381386" duration="4000" />
+      <workItem from="1647695335649" duration="741000" />
+      <workItem from="1647766805016" duration="756000" />
+      <workItem from="1647768919957" duration="4857000" />
+      <workItem from="1647913307484" duration="8509000" />
+      <workItem from="1647929241964" duration="4044000" />
+      <workItem from="1647944538201" duration="12104000" />
+      <workItem from="1648019501412" duration="5273000" />
+      <workItem from="1648034703969" duration="9661000" />
+      <workItem from="1648110522828" duration="4608000" />
+      <workItem from="1648117955995" duration="1193000" />
+      <workItem from="1648190439683" duration="4052000" />
+      <workItem from="1648310974982" duration="1814000" />
+      <workItem from="1648343846585" duration="29000" />
+      <workItem from="1648344576948" duration="1746000" />
+      <workItem from="1648347331787" duration="3909000" />
+      <workItem from="1648364272696" duration="974000" />
+      <workItem from="1648372203566" duration="7000" />
+      <workItem from="1648373788640" duration="536000" />
+      <workItem from="1648453483487" duration="1220000" />
+      <workItem from="1648469872108" duration="889000" />
+      <workItem from="1648528910751" duration="610000" />
+      <workItem from="1648556945666" duration="1890000" />
+      <workItem from="1648560372867" duration="596000" />
+      <workItem from="1648605595133" duration="7177000" />
+      <workItem from="1648620532578" duration="7886000" />
+      <workItem from="1648694400851" duration="1798000" />
+      <workItem from="1648812038417" duration="4463000" />
+      <workItem from="1648885792576" duration="3346000" />
+      <workItem from="1648900665598" duration="6757000" />
+      <workItem from="1648972163973" duration="40000" />
+      <workItem from="1648973514645" duration="5032000" />
+      <workItem from="1649071069313" duration="1195000" />
+      <workItem from="1649078717139" duration="983000" />
+      <workItem from="1649127594882" duration="1069000" />
+      <workItem from="1649149240525" duration="91000" />
+      <workItem from="1649149364951" duration="26000" />
+      <workItem from="1649161965335" duration="2376000" />
+      <workItem from="1649253448056" duration="1315000" />
+      <workItem from="1649259434782" duration="500000" />
+      <workItem from="1649326930381" duration="11080000" />
+      <workItem from="1649418209136" duration="7047000" />
+      <workItem from="1649487250403" duration="1976000" />
+      <workItem from="1649490004682" duration="151000" />
+      <workItem from="1649664778329" duration="5875000" />
+      <workItem from="1649684277999" duration="1065000" />
+      <workItem from="1649768059530" duration="379000" />
+      <workItem from="1649768443806" duration="1344000" />
+      <workItem from="1649944086313" duration="4676000" />
+      <workItem from="1650030349634" duration="946000" />
+      <workItem from="1650078251968" duration="4523000" />
+      <workItem from="1650097117024" duration="3000" />
+      <workItem from="1650102864768" duration="3429000" />
+      <workItem from="1650179722764" duration="2081000" />
+      <workItem from="1650191321337" duration="6474000" />
+      <workItem from="1650200389627" duration="7336000" />
+      <workItem from="1650250336393" duration="27000" />
+      <workItem from="1650250775185" duration="4224000" />
+      <workItem from="1650351480722" duration="1506000" />
+      <workItem from="1650370404943" duration="991000" />
+      <workItem from="1650374638066" duration="562000" />
+      <workItem from="1650375223198" duration="1045000" />
+      <workItem from="1650442388897" duration="3749000" />
+      <workItem from="1650464783872" duration="85000" />
+      <workItem from="1650468530898" duration="27000" />
+      <workItem from="1650526849474" duration="2476000" />
+      <workItem from="1650529664243" duration="190000" />
+      <workItem from="1650532183633" duration="542000" />
+      <workItem from="1650536417145" duration="376000" />
+      <workItem from="1650540824388" duration="3000" />
+      <workItem from="1650798779970" duration="2131000" />
+      <workItem from="1651631563947" duration="2883000" />
+      <workItem from="1653913943904" duration="539000" />
+      <workItem from="1653991955859" duration="4881000" />
+      <workItem from="1654095409517" duration="587000" />
+      <workItem from="1654096824922" duration="930000" />
+      <workItem from="1654223790298" duration="3699000" />
+      <workItem from="1661763962898" duration="4681000" />
+      <workItem from="1661929305015" duration="4164000" />
+      <workItem from="1661944040720" duration="8669000" />
+      <workItem from="1662000867176" duration="4148000" />
+      <workItem from="1662015713180" duration="14864000" />
+      <workItem from="1662080700141" duration="8742000" />
+      <workItem from="1662121050972" duration="2896000" />
+      <workItem from="1662187047008" duration="11114000" />
+      <workItem from="1662202348860" duration="10000" />
+      <workItem from="1662210977591" duration="1310000" />
+      <workItem from="1662347275752" duration="2504000" />
+      <workItem from="1662381877589" duration="1190000" />
+      <workItem from="1662521775972" duration="802000" />
+      <workItem from="1662621414730" duration="1553000" />
+      <workItem from="1662724731708" duration="1006000" />
+      <workItem from="1662726366101" duration="2563000" />
+      <workItem from="1662775725414" duration="5099000" />
+      <workItem from="1662794276955" duration="84000" />
+      <workItem from="1662812412407" duration="205000" />
+      <workItem from="1662958893138" duration="1282000" />
+      <workItem from="1663036090320" duration="2079000" />
+      <workItem from="1663138331636" duration="6000" />
+      <workItem from="1663144370248" duration="1709000" />
+      <workItem from="1663204989034" duration="987000" />
+      <workItem from="1663206281583" duration="14000" />
+      <workItem from="1663207754362" duration="851000" />
+      <workItem from="1663984759439" duration="752000" />
+      <workItem from="1665922904198" duration="3835000" />
+      <workItem from="1666685163333" duration="54000" />
+      <workItem from="1668412884160" duration="7763000" />
+      <workItem from="1668427974780" duration="2292000" />
+      <workItem from="1668501704897" duration="112000" />
+      <workItem from="1668501830425" duration="124000" />
+      <workItem from="1668662345214" duration="11000" />
+      <workItem from="1668836894186" duration="544000" />
+      <workItem from="1669354707431" duration="10000" />
+      <workItem from="1675168662388" duration="1168000" />
+      <workItem from="1675425791266" duration="6594000" />
+      <workItem from="1676036147188" duration="22000" />
+      <workItem from="1676039468680" duration="701000" />
+      <workItem from="1676093750571" duration="1327000" />
+      <workItem from="1676379939756" duration="70000" />
+      <workItem from="1676646602064" duration="263000" />
+      <workItem from="1688974147864" duration="7477000" />
+      <workItem from="1688987525681" duration="1609000" />
+      <workItem from="1689063099771" duration="4283000" />
+      <workItem from="1689147246520" duration="597000" />
+      <workItem from="1690114394141" duration="597000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="456006000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="830" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28686327" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32188842" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37769786" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3291367" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3291367" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.2497979" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30962005" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30395684" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.37769786" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.3291367" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3291367" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.2497979" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Chapter2/贪心类型问题/剪视频剪出一个贪心算法/T1024/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter2/贪心类型问题/扫描线技巧_安排会议室/T253/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="54" column="5" lean-forward="true" selection-start-line="54" selection-start-column="5" selection-end-line="54" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter2/贪心类型问题/贪心算法之区间调度问题/T435/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-347">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/经典排序算法/归并排序/SolutionII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/经典排序算法/归并排序/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/经典排序算法/quick_sort/SolutionII.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/经典排序算法/归并排序/T315.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-176">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/经典排序算法/归并排序/Test.java" />
+    <entry file="file://$PROJECT_DIR$/src/经典排序算法/quick_sort/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="63" column="9" lean-forward="true" selection-start-line="63" selection-start-column="9" selection-end-line="63" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/经典排序算法/quick_sort/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/经典排序算法/quick_sort/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-883">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/经典排序算法/insert_sort/ManyThreadSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-281">
+          <caret line="62" lean-forward="true" selection-start-line="62" selection-end-line="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/经典排序算法/insert_sort/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/YongJ/Z字遍历二叉树/Solut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/经典排序算法/桶排序/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-443">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/经典排序算法/heap_sort/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="45" column="30" lean-forward="true" selection-start-line="45" selection-start-column="30" selection-end-line="45" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/蓄水池采样法/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-553">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/贪心算法_区间调度/T435/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke_meituan_2021_10/T1/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="93">
+          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke_meituan_2021_10/T1/data.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/回溯法/解数独/T37/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/YongJ/Z字遍历二叉树/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-44">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter1/链表/单链表6大题解套路/T19/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter1/链表/单链表6大题解套路/T21/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter1/链表/单链表6大题解套路/T23/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Chapter1/链表/如何判断回文链表/T234/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/经典题.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/单调栈/T670最大交换_一次/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/c282_0227_2022/T6010/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ali打怪兽/打怪兽1/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ali打怪兽/打怪兽1/思路.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/c72_0219_2022/T5996/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="8" column="21" lean-forward="true" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke_meituan_2021_10/T2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke_meituan_2021_10/T3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="77" column="13" lean-forward="true" selection-start-line="77" selection-start-column="13" selection-end-line="77" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke_meituan_2021_10/T4/例子说明1.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niuke_meituan_2021_10/T4/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kwq/huawei0831/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/kwq/huawei0831/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="46" column="28" lean-forward="true" selection-start-line="46" selection-start-column="28" selection-end-line="46" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/经典排序算法/quick_sort_topk/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/huawei_y23_07_10/T2/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="10" lean-forward="true" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/huawei_y23_07_10/T3/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="822">
+          <caret line="51" column="33" selection-start-line="51" selection-start-column="33" selection-end-line="51" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/huawei_y23_07_10/T4/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/huawei_y23_07_10/T4/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="43" column="26" selection-start-line="43" selection-start-column="26" selection-end-line="43" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/huawei_y23_07_10/T2/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/huawei_y23_07_10/T5/input.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/huawei_y23_07_10/T5/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/huawei_y23_07_10/t5.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/huawei_y23_07_10/t4.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/huawei_y23_07_10/t3.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/huawei_y23_07_10/t1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/huawei_y23_07_10/t2.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>
